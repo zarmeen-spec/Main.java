@@ -1,5 +1,5 @@
-package com.abstraction;
-abstract class Employee {
-    public String name;
-    public double salary;
+class Main{
+    public static void main(String[] args){
+        System.out.println("hello world")
+    }
 }
